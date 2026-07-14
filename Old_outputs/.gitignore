@@ -1,0 +1,13 @@
+# Ignore everything in these folders regardless of depth
+Archived/**
+Old_outputs/**
+
+# Ignore all png files in the entire project
+**/*.png
+**/*.pdf
+**/*.RData
+
+# Other system files
+.Rproj.user
+.Rhistory
+.Ruserdata
